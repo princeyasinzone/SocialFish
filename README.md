@@ -8,7 +8,7 @@
 </p>
 <h1Termux usr Non-Root Special Scripts !!!!!!! /h1>
 
-Non-Root Special Scripts !!!!!!! 
+Termux Non-Root Special Scripts !!!!!!! 
 
 pkg install php git python2 curl 
 
