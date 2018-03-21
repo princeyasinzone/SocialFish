@@ -12,7 +12,7 @@ Termux Non-Root Special Scripts !!!!!!! 
 
 pkg install php git python2 curl 
 
-git clone https://github.com/Lexiie/SocialFish.git && cd SocialFish 
+git clone https://github.com/ERROR4317/SocialFish.git && cd SocialFish 
 
 pip2 install wget 
 
