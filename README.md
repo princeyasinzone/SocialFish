@@ -6,6 +6,18 @@
 <p align="center">
   Ultimate phishing tool with Ngrok integrated.
 </p>
+<h1Termux usr Non-Root Special Scripts !!!!!!! /h1>
+
+Non-Root Special Scripts !!!!!!! 
+
+pkg install php git python2 curl 
+
+git clone https://github.com/Lexiie/SocialFish.git && cd SocialFish 
+
+pip2 install wget 
+
+python2 SocialFish.py
+
 
 ### MAINTAINERS
 * **Alisson Moretto** | 
