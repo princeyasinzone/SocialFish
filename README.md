@@ -6,7 +6,7 @@
 <p align="center">
   Ultimate phishing tool with Ngrok integrated.
 </p>
-<h1Termux usr Non-Root Special Scripts !!!!!!! /h1>
+<h1>Termux usr Non-Root Special Scripts !!!!!!! </h1>
 
 Termux Non-Root Special Scripts !!!!!!! 
 
@@ -15,9 +15,11 @@ pkg install php git python2 curl 
 git clone https://github.com/ERROR4317/SocialFish.git && cd SocialFish 
 
 pip2 install wget 
-
+pkg install grep
 python2 SocialFish.py
 
+watch video on youtube Termux noroot user
+https://youtu.be/Gs5snZ4IHqI
 
 ### MAINTAINERS
 * **Alisson Moretto** | 
