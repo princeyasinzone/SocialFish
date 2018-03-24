@@ -15,7 +15,9 @@ pkg install php git python2 curl 
 git clone https://github.com/ERROR4317/SocialFish.git && cd SocialFish 
 
 pip2 install wget 
+
 pkg install grep
+
 python2 SocialFish.py
 
 watch video on youtube Termux noroot user
