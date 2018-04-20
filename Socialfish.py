@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 #       SOCIALFISH
-#     by: UNDEADSEC
+#     by: Prince Yasin
 #
 ###########################
 from time import sleep
@@ -55,13 +55,10 @@ def end():
               |/     / / / / / / /             \_   {1}ME !{2}  _)
                           {1}F I S H{2}                ~--___--~
 
-{1}[ {0}Watch us on YouTube:{1} https://youtube.com/c/UndeadSec ]
+{1}[ 
+0}By Prince Yasin
 
-[ {0}Follow me on Twitter:{1} https://twitter.com/A1S0N_ ]
-
-[ {0}Contribute on Github:{1} https://github.com/UndeadSec/SocialFish ]
-
-[ {0}Join our Telegram Group(Portuguese):{1} https://t.me/UndeadSec ]\n'''.format(GREEN, END, CYAN)
+n'''.format(GREEN, END, CYAN)
 
 def loadModule(module):
        print '''{0}
@@ -118,7 +115,7 @@ def runPEnv():
       .    '   '....'               ..'.      ' .
          '  .                     .     '          '     '  {1}v1.0{2} 
                '  .  .  .  .  . '.    .'              '  .
-                   '         '    '. '      {1}Twitter: https://twitter.com/A1S0N_{2}    
+                   '         '    '. '      {1}By Prince Yasin  
                      '       '      '             
                        ' .  '
                            '
